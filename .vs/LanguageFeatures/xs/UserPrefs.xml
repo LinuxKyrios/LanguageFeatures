@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{01D331C1-5BD8-4782-A948-19B260B52B76}|">
   <MonoDevelop.Ide.ItemProperties.LanguageFeatures PreferredExecutionTarget="/usr/bin/google-chrome-unstable" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LanguageFeatures/Models/ShoppingCart.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LanguageFeatures/Models/MyExtensionMethods.cs">
     <Files>
       <File FileName="LanguageFeatures/Web.config" Line="16" Column="17" />
       <File FileName="LanguageFeatures/Global.asax.cs" Line="1" Column="1" />
       <File FileName="LanguageFeatures/Controllers/HomeController.cs" Line="50" Column="52" />
       <File FileName="LanguageFeatures/Views/Result.cshtml" Line="13" Column="15" />
       <File FileName="LanguageFeatures/Models/Product.cs" Line="10" Column="45" />
-      <File FileName="LanguageFeatures/Models/ShoppingCart.cs" Line="2" Column="13" />
+      <File FileName="LanguageFeatures/Models/ShoppingCart.cs" Line="8" Column="41" />
+      <File FileName="LanguageFeatures/Models/MyExtensionMethods.cs" Line="6" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +17,7 @@
             <Node name="LanguageFeatures" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True">
-                <Node name="ShoppingCart.cs" selected="True" />
+                <Node name="MyExtensionMethods.cs" selected="True" />
               </Node>
               <Node name="Views" expanded="True" />
               <Node name="Global.asax" expanded="True" />
