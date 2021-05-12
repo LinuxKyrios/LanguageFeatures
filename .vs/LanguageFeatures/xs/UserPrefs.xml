@@ -1,5 +1,36 @@
 ﻿<Properties StartupConfiguration="{01D331C1-5BD8-4782-A948-19B260B52B76}|">
-  <MonoDevelop.Ide.ItemProperties.LanguageFeatures FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.LanguageFeatures FirstBuild="True" PreferredExecutionTarget="/usr/bin/google-chrome-unstable" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LanguageFeatures/Views/Result.cshtml">
+    <Files>
+      <File FileName="LanguageFeatures/Web.config" Line="1" Column="1" />
+      <File FileName="LanguageFeatures/Global.asax.cs" Line="1" Column="1" />
+      <File FileName="LanguageFeatures/Controllers/HomeController.cs" Line="18" Column="1" />
+      <File FileName="LanguageFeatures/Views/Result.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LanguageFeatures" expanded="True">
+            <Node name="LanguageFeatures" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Result.cshtml" selected="True" />
+              </Node>
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+            <Node name="LanguageFeatures.Tests" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.LanguageFeatures.Tests FirstBuild="True" />
 </Properties>
