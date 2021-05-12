@@ -8,7 +8,7 @@
       <File FileName="LanguageFeatures/Views/Result.cshtml" Line="13" Column="15" />
       <File FileName="LanguageFeatures/Models/Product.cs" Line="10" Column="45" />
       <File FileName="LanguageFeatures/Models/ShoppingCart.cs" Line="8" Column="41" />
-      <File FileName="LanguageFeatures/Models/MyExtensionMethods.cs" Line="6" Column="9" />
+      <File FileName="LanguageFeatures/Models/MyExtensionMethods.cs" Line="4" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
