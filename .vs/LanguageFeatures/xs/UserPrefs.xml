@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{01D331C1-5BD8-4782-A948-19B260B52B76}|">
   <MonoDevelop.Ide.ItemProperties.LanguageFeatures FirstBuild="True" PreferredExecutionTarget="/usr/bin/google-chrome-unstable" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LanguageFeatures/Views/Result.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LanguageFeatures/Models/Product.cs">
     <Files>
-      <File FileName="LanguageFeatures/Web.config" Line="1" Column="1" />
+      <File FileName="LanguageFeatures/Web.config" Line="16" Column="17" />
       <File FileName="LanguageFeatures/Global.asax.cs" Line="1" Column="1" />
-      <File FileName="LanguageFeatures/Controllers/HomeController.cs" Line="18" Column="1" />
-      <File FileName="LanguageFeatures/Views/Result.cshtml" Line="1" Column="1" />
+      <File FileName="LanguageFeatures/Controllers/HomeController.cs" Line="14" Column="2" />
+      <File FileName="LanguageFeatures/Views/Result.cshtml" Line="13" Column="15" />
+      <File FileName="LanguageFeatures/Models/Product.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,9 +14,10 @@
           <Node name="LanguageFeatures" expanded="True">
             <Node name="LanguageFeatures" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Result.cshtml" selected="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Product.cs" selected="True" />
               </Node>
+              <Node name="Views" expanded="True" />
               <Node name="Global.asax" expanded="True" />
             </Node>
             <Node name="LanguageFeatures.Tests" expanded="True">
